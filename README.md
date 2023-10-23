@@ -1,2 +1,8 @@
 # payment-gateway
-High Quality Software Programming
+
+To run:
+
+```
+dotnet run
+
+```

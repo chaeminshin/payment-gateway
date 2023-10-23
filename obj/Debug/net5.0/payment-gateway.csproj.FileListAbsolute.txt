@@ -1,0 +1,16 @@
+D:\GitHub\payment-gateway\bin\Debug\net5.0\payment-gateway.exe
+D:\GitHub\payment-gateway\bin\Debug\net5.0\payment-gateway.deps.json
+D:\GitHub\payment-gateway\bin\Debug\net5.0\payment-gateway.runtimeconfig.json
+D:\GitHub\payment-gateway\bin\Debug\net5.0\payment-gateway.runtimeconfig.dev.json
+D:\GitHub\payment-gateway\bin\Debug\net5.0\payment-gateway.dll
+D:\GitHub\payment-gateway\bin\Debug\net5.0\ref\payment-gateway.dll
+D:\GitHub\payment-gateway\bin\Debug\net5.0\payment-gateway.pdb
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.csprojAssemblyReference.cache
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.AssemblyInfoInputs.cache
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.AssemblyInfo.cs
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.csproj.CoreCompileInputs.cache
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.dll
+D:\GitHub\payment-gateway\obj\Debug\net5.0\ref\payment-gateway.dll
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.pdb
+D:\GitHub\payment-gateway\obj\Debug\net5.0\payment-gateway.genruntimeconfig.cache
